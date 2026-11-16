@@ -27,4 +27,5 @@ I built a new Active Directory Domain on windows server and promoted a domain co
 ## Key Accomplishments
 * Built NMG.com domain from scratch
 * Made a clear structure to insure efficient auditing
-  
+* Solved a mock ticket where a user was given incorrect access
+* Fully documented my steps for anyone to be able to follow along and see 
